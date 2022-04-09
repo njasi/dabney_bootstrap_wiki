@@ -1,6 +1,6 @@
 <?php
 
-namespace dokuwiki\template\bootstrap3;
+namespace dokuwiki\template\bootstrap3_dabney;
 
 /**
  * DokuWiki Bootstrap3 Template: Template Class

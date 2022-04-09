@@ -1,6 +1,6 @@
 <?php
 
-namespace dokuwiki\template\bootstrap3\Menu;
+namespace dokuwiki\template\bootstrap3_dabney\Menu;
 
 /**
  * Class PageIconsMenu
