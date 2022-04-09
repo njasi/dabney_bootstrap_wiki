@@ -5,8 +5,8 @@ namespace dokuwiki\template\bootstrap3;
 /**
  * DokuWiki Bootstrap3 Template: Template Class
  *
- * @link     http://dokuwiki.org/template:bootstrap3
- * @author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * @link     https://github.com/njasi/dabney_bootstrap_wiki
+ * @author   Nick Jasinski <njasinsk@caltech.edu>
  * @license  GPL 2 (http://www.gnu.org/licenses/gpl.html)
  */
 

@@ -2,7 +2,7 @@
 /**
  * DokuWiki Bootstrap3 Template: Media Manager Popup
  *
- * @link     http://dokuwiki.org/template:bootstrap3
+ * @link     https://github.com/njasi/dabney_bootstrap_wiki
  * @author   Andreas Gohr <andi@splitbrain.org>
  * @author   Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
  * @license  GPL 2 (http://www.gnu.org/licenses/gpl.html)
