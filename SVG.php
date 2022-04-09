@@ -3,13 +3,13 @@
 /**
  * SVG PHP Helper
  *
- * Based on https://github.com/chteuchteu/MaterialDesignIcons-PHP
+ * Based on https://github.com/giterlizzi/dokuwiki-template-bootstrap3
  *
- * @author  Giuseppe Di Terlizzi <giuseppe.diterlizzi@gmail.com>
+ * @author  Nick Jasinski <ughjustworknow@caltech.edu>
  * @license MIT, GPLv2
  */
 
-namespace dokuwiki\template\bootstrap3_dabney;
+namespace dokuwiki\template\bootstrap3;
 
 class SVG
 {
