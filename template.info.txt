@@ -4,5 +4,5 @@ email    njasinski@caltech.edu
 date     2022-04-08
 name     Bootstrap3 Dabney Template
 desc     Bootstrap-based template for Dabney Dokuwiki
-url      https://github.com/giterlizzi/dokuwiki-template-bootstrap3
+url      https://github.com/njasi/dabney_bootstrap_wiki
 build    stable/20210311
